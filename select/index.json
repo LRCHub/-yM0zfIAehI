@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "38℃",
+  "base_artist": "KingrassHoppers",
+  "createdAt": "2025-12-28T02:51:34.779479Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": ".38.45 (A Thievery Number)",
+      "artist": "Thievery Corporation",
+      "has_synced": false,
+      "path": "select/01_.38.45_(A_Thievery_Number)_Thievery_Corporation.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hallelujah, It's Christmas \u0000 38 Special",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/02_Hallelujah,_It's_Christmas_\u0000_38_Special_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "17 Wit A 38 (with Chief Keef)",
+      "artist": "IDK feat. Chief Keef",
+      "has_synced": false,
+      "path": "select/03_17_Wit_A_38_(with_Chief_Keef)_IDK_feat._Chief_Keef.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wit A 38",
+      "artist": "IDK feat. Chief Keef",
+      "has_synced": false,
+      "path": "select/04_Wit_A_38_IDK_feat._Chief_Keef.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Read 13:38",
+      "artist": "Lost Outrider",
+      "has_synced": true,
+      "path": "select/05_Read_13_38_Lost_Outrider.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "38 Luglio",
+      "artist": "Squallor",
+      "has_synced": true,
+      "path": "select/06_38_Luglio_Squallor.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "38 y Super",
+      "artist": "Arsenal Efectivo",
+      "has_synced": true,
+      "path": "select/07_38_y_Super_Arsenal_Efectivo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "12.38 (feat. 21 Savage, Ink & Kadhja Bonet)",
+      "artist": "Childish Gambino feat. 21 Savage, Ink & Kadhja Bonet",
+      "has_synced": true,
+      "path": "select/08_12.38_(feat._21_Savage,_Ink_&_Kadhja_Bonet)_Childish_Gambino_feat._21_Savage,_Ink_&_Kadhja_Bonet.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "12.38",
+      "artist": "Childish Gambino",
+      "has_synced": true,
+      "path": "select/09_12.38_Childish_Gambino.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "38.9897 °N, 76.9378 °W (feat. C Dot Castro & Big Lenbo)",
+      "artist": "Logic",
+      "has_synced": false,
+      "path": "select/10_38.9897_°N,_76.9378_°W_(feat._C_Dot_Castro_&_Big_Lenbo)_Logic.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "38.9897 °N, 76.9378 °W (ft. C Dot Castro & Big Lenbo)",
+      "artist": "Logic",
+      "has_synced": false,
+      "path": "select/11_38.9897_°N,_76.9378_°W_(ft._C_Dot_Castro_&_Big_Lenbo)_Logic.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "12.38 (feat. 21 Savage, Ink & Kadhja Bonet)",
+      "artist": "Childish Gambino",
+      "has_synced": true,
+      "path": "select/12_12.38_(feat._21_Savage,_Ink_&_Kadhja_Bonet)_Childish_Gambino.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": ".38 Special - Hold On Loosely",
+      "artist": "_Misc - Rock",
+      "has_synced": true,
+      "path": "select/13_.38_Special_-_Hold_On_Loosely_Misc_-_Rock.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": ".38 Special / Hold On Loosely",
+      "artist": "Various",
+      "has_synced": false,
+      "path": "select/14_.38_Special___Hold_On_Loosely_Various.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "12.38",
+      "artist": "Childish Gambino feat. 21 Savage, Ink & Kadhja Bonet",
+      "has_synced": true,
+      "path": "select/15_12.38_Childish_Gambino_feat._21_Savage,_Ink_&_Kadhja_Bonet.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "38 - 恋のディスコクイーン",
+      "artist": "SEGA",
+      "has_synced": true,
+      "path": "select/16_38_-_恋のディスコクイーン_SEGA.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sunday School (feat. 38 Spesh & Jadakiss)",
+      "artist": "Benny The Butcher feat. 38 Spesh & Jadakiss",
+      "has_synced": true,
+      "path": "select/17_Sunday_School_(feat._38_Spesh_&_Jadakiss)_Benny_The_Butcher_feat._38_Spesh_&_Jadakiss.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "38℃",
+      "artist": "KingrassHoppers",
+      "has_synced": false,
+      "path": "select/pl_01_38°C_KingrassHoppers.txt"
+    }
+  ]
+}
